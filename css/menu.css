@@ -144,6 +144,7 @@
 }
 .ttmenu .navbar-default .navbar-nav > li > .dropdown-menu {
     margin-top:0;
+        z-index: 1000;
 }
 .ttmenu .navbar-default .nav,
 .ttmenu .navbar-default .collapse,
